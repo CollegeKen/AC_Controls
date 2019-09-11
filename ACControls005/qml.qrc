@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>test.py</file>
+        <file>CustomRangeSlider.qml</file>
+        <file>IndicatorLight.qml</file>
+        <file>IndicatorLightConfig.qml</file>
+        <file>SliderConfig.qml</file>
+        <file>StageLabel.qml</file>
+    </qresource>
+</RCC>
