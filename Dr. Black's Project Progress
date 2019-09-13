@@ -1,7 +1,0 @@
--Using an Si7021 code from www.controleverything.com/content/Humidity.
-	-Works. However, this code only works with the SDA and SCL connections. 	 	Must find a code that makes more pins SDA and SCL.
--Using SoftI2CMaster code to be able to address certain pins for SDA and SCL connections.
-	-To use this, the SDA and SCL pins must be labeled according to their ports 	 and pins and then the Softwire.h file must be included. 
-	-I defined and included the appropriate pins to use. I am currently having 		 problems finding a way to pass on the data that is passed on into the code 	 itself. Addr was used before, but that was using the Wire.h file.
-	-I must find what type of variable was used for Addr and how to add it to
-	 the current one. 	
